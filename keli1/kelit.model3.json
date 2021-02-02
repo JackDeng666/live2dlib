@@ -11,75 +11,75 @@
 			  {
 				"Name": "这可不是瞎说的",
 				"File": "motions/这可不是瞎说的.motion3.json",
-				"Sound": "sounds/这可不是瞎说的.wav",
+				"Sound": "sounds2/这可不是瞎说的.mp3",
 				"SoundDelay": 500
 			  },
 			  {
 				"Name": "你是可莉的伙伴吗",
 				"File": "motions/你是可莉的玩伴吧.motion3.json",
-				"Sound": "sounds/你是可莉的玩伴吧.wav"
+				"Sound": "sounds2/你是可莉的玩伴吧.mp3"
 			  },
 			  {
 				"Name": "你好你是可莉的伙伴吗",
 				"File": "motions/你好，你是可莉的伙伴吗.motion3.json",
-				"Sound": "sounds/你好，你是来找可莉玩的吗.wav"
+				"Sound": "sounds2/你好，你是来找可莉玩的吗.mp3"
 			  },
 			  {
 				"Name": "看我做的好不好",
 				"File": "motions/你看我做的好不好.motion3.json",
-				"Sound": "sounds/这个是可莉最新研制的炸弹.wav"
+				"Sound": "sounds2/这个是可莉最新研制的炸弹.mp3"
 			  },
 			  {
 				"Name": "午饭时间到了",
 				"File": "motions/午饭时间到了.motion3.json",
-				"Sound": "sounds/午饭时间到了.wav"
+				"Sound": "sounds2/午饭时间到了.mp3"
 			  },
 			  {
 				"Name": "可莉不要剥壳",
 				"File": "motions/可莉不要剥壳.motion3.json",
-				"Sound": "sounds/可莉不要剥壳.wav"
+				"Sound": "sounds2/可莉不要剥壳.mp3"
 			  },
 			  {
 				"Name": "可莉报告",
 				"File": "motions/可莉报告.motion3.json",
-				"Sound": "sounds/可莉报告.wav",
+				"Sound": "sounds2/可莉报告.mp3",
 				"SoundDelay": 50
 			  },
 			  {
 				"Name": "我们一起去冒险",
 				"File": "motions/和可莉来冒险吧.motion3.json",
-				"Sound": "sounds/我们一起去冒险.wav"
+				"Sound": "sounds2/我们一起去冒险.mp3"
 			  },
 			  {
 				"Name": "不被关禁闭的话就更好了",
 				"File": "motions/如果不被关禁闭的话就更好了.motion3.json",
-				"Sound": "sounds/如果不被关禁闭的话就更好了.wav"
+				"Sound": "sounds2/如果不被关禁闭的话就更好了.mp3"
 			  },
 			  {
 				"Name": "带我出去玩~",
 				"File": "motions/带我出去玩.motion3.json",
-				"Sound": "sounds/带可莉出去玩~.wav"
+				"Sound": "sounds2/带可莉出去玩~.mp3"
 			  },
 			  {
 				"Name": "找你出去玩",
 				"File": "motions/找你出去玩.motion3.json",
-				"Sound": "sounds/找你出去玩.wav"
+				"Sound": "sounds2/找你出去玩.mp3"
 			  },
 			  {
 				"Name": "解决麻烦",
 				"File": "motions/谢谢你总是帮可莉解决麻烦.motion3.json",
-				"Sound": "sounds/谢谢你总是帮可莉解决麻烦.wav"
+				"Sound": "sounds2/谢谢你总是帮可莉解决麻烦.mp3"
 			  },
 			  {
 				"Name": "这次炸弹是防水的",
 				"File": "motions/这次的炸弹可是防水的.motion3.json",
-				"Sound": "sounds/这次的炸弹可是防水的.wav"
+				"Sound": "sounds2/这次的炸弹可是防水的.mp3"
 			  }
 			],
 			"Start": [
 			  {
 				"File": "motions/这次的炸弹可是防水的.motion3.json",
-				"Sound": "sounds/这次的炸弹可是防水的.wav"
+				"Sound": "sounds2/这次的炸弹可是防水的.mp3"
 			  }
 			]
 		  }
